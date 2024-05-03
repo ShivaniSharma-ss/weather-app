@@ -1,0 +1,14 @@
+.nav-link {
+  color: white !important;
+}
+.navbar-brand {
+  color: white !important;
+}
+
+.nav-dropdown {
+  margin-left: 100%;
+}
+
+p {
+  float: right;
+}
